@@ -1,3 +1,6 @@
+/**
+ * Lab2_Robert Blick_F2026
+ */
 
 public class DiceGame {
 	
